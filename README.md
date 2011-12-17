@@ -3,3 +3,5 @@
 Experimental Shadow DOM styling of <input> elements
 
 [More info & Demo](http://lab.simurai.com/css/umbrui/)
+
+Current browser support: WebKit
